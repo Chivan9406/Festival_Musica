@@ -1,0 +1,26 @@
+//Iniciar npm
+1. npm init
+    1.1 Configurar
+2. Crear archivo gulpfile.js
+3. Instalar gulp para compilar sass como dependencia de desarrollo
+    3.1 npm install --save-dev gulp
+    3.2 npm install --save-dev gulp-dart-sass
+
+//Para imagenes
+1. npm install --save-dev gulp-imagemin
+
+//Para enviar notificaciones
+1. npm install --save-dev gulp-notify
+
+//Imagenes a webp
+1. npm install --save-dev gulp-webp
+
+//Para JavaScript
+1. npm install --save-dev gulp-concat
+
+//Utilidades css
+1. npm install --save-dev autoprefixer gulp-postcss gulp-sourcemaps cssnano postcss
+2. Crear archivo postcss.config.js
+
+//Utilidades js
+1. npm install --save-dev gulp-terser-js gulp-rename
